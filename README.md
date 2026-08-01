@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stock Platform
 
 This repository contains a development stock prediction platform with a Flask backend that runs multiple forecasting models and a PHP/Bootstrap frontend dashboard (user and admin views). The app supports multi-model predictions, backtesting, CSV-based actuals (Close price), an asynchronous retrain job flow, and a drillable UI for per-model and per-day inspection.
@@ -132,3 +133,6 @@ If you'd like, I can:
 - Or, provide step-by-step guidance and commands so you can push from your machine.
 
 Please tell me how you'd like to proceed.
+=======
+# stock_platform
+>>>>>>> 5ddb3db7bbe37add5d2690b0e70d1e551d6cbaf1
